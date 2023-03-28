@@ -1,0 +1,39 @@
+.boluk1
+{
+    height: 410px;
+}
+.boluk2
+{
+    height: 200px;
+}
+.boluk3
+{
+    height: 500px;
+}
+.kutu1
+{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.yazı1
+{
+    padding-top: 200px;
+  
+    font-size: 100px;
+}
+.yazı2
+{
+    font-size: 30px;
+    margin-left: 10px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.yazı3
+{
+    padding-top: 100px;
+}
+.htmldiv
+{
+    width: 500px;
+    height: 100px;
+}
